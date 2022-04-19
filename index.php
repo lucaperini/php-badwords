@@ -10,8 +10,6 @@ $textReplaced = str_replace($badWord,"***", $text);
 
 $textReplacedLength = strlen($textReplaced);
 
-
-
 ?>
 
 <!DOCTYPE html>
